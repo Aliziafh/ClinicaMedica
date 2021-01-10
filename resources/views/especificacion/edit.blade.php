@@ -6,6 +6,8 @@
 
 <div data-backdrop="static" class="modal fade" id="modal-especialidad-edit-{{ $especialidad->idespecialidad }}"> 
 
+    
+
  
     <div class="modal-dialog">
         <div class="modal-content"> 
